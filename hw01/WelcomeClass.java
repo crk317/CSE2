@@ -13,10 +13,10 @@ public static void main(String[] args) {
     System.out.println("| WELCOME |");
     System.out.println("-----------");
     System.out.println(" ^  ^  ^  ^  ^  ^");
-    System.out.println("/ \/ \/ \/ \/ \/ \");
+    System.out.println("/ \/ \/ \/ \/ \/ \'");
     System.out.println("<-C--R--K--3--1--7->");
     System.out.println("\ /\ /\ /\ /\ /\ /");
     System.out.println(" v  v  v  v  v  v");
-    System.out.println("This weekend I am going to compete in the semifinals of the International Collegiate A Capella Campionship.");
+    System.out.println("This weekend I am going to compete in the semifinals of the International Collegiate A Capella Championship.");
 }
 }

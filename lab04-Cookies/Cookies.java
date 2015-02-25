@@ -14,13 +14,12 @@ public class Cookies {
         System.out.print("Enter the number of People: ");
         int nPeople = myScanner.nextInt();
         
-        if(myScanner.hasNextInt())
-            System.out.println("Yay you did it");
-        else{
-            System.out.println("You did not enter an int");
-            return;    //leaves the program, i.e.
-                      //the program terminates
-}
+
+        if(nPeople>=0){
+            System.out.print("Enter the number of cookies you are planning to buy: ");
+        }else {
+            System.out.println("This is not a valid input. Try Again.");
+        }
 
 }
 }

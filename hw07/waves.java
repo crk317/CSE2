@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Waves{
+public class waves{
     public static void main(String[] args) {
     Scanner myScanner = new Scanner(System.in);
     System.out.print("Enter an integer between 1 and 30: ");
